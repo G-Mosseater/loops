@@ -1,3 +1,15 @@
+
+// Random data page:
+// Get the randomized data here and transform it into an array in a Javascript file
+// Create a TypeScript file that, using console.log():
+// Outputs how many children all people have, in total (Ex.: Bia has 2 kids, Paul has 3, so the total 5)
+// Outputs one string per person formatted as such:
+// name: Age
+
+
+
+
+
 {
   type people = {
     // setting data types
